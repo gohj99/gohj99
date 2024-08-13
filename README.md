@@ -1,5 +1,5 @@
 ### Hi there 👋
-![gohj99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gohj99&show_icons=true&theme=transparent)
+![gohj99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gohj99&show_icons=true&theme=transparent&rank_icon=github)
 
 <!--
 **gohj99/gohj99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
