@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm gohj99.
 ![gohj99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gohj99&show_icons=true&theme=transparent&rank_icon=true)
 
 <!--
