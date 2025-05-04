@@ -5,6 +5,12 @@
 </picture>
 
 ### Hi there 👋
+
+- 🔭 I'm a Chinese high school student
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: [tg](https://t.me/gohj99)
+- 😄 Pronouns: 99
+
 ![gohj99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gohj99&show_icons=true&theme=transparent&rank_icon=true)
 
 <!--
