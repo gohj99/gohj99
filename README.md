@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🔭 I'm a Chinese high school student
+- 🔭 I'm a student
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: [Telegram](https://t.me/gohuojian99)
 - 😄 Pronouns: 99
