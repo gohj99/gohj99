@@ -8,7 +8,8 @@
 
 - 🔭 I'm a high school student from China
 - 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: [Telegram](https://t.me/gohuojian99)
+- 📫 Telegram Public Channel: [This](https://t.me/gohj99_Channels)
+- 💬 How to reach me: [Telegram](https://t.me/gohuojian99)
 - 😄 Pronouns: 99
 
 ![gohj99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gohj99&show_icons=true&theme=transparent&rank_icon=true)
