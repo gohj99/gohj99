@@ -11,7 +11,7 @@
 - 📫 Telegram Public Channel: [This](https://t.me/gohj99_Channels)
 - 💬 How to reach me: [Telegram](https://t.me/gohuojian99)
 - 😄 Pronouns: 99
-- 爱发电: [this](https://afdian.com/a/gohuojian99)
+<!--- 爱发电: [this](https://afdian.com/a/gohuojian99)-->
 
 ![gohj99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gohj99&show_icons=true&theme=transparent&rank_icon=true)
 
