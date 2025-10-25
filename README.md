@@ -6,6 +6,8 @@
 
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/0067555e-890a-4f8e-91d6-d4b8a6779243.svg)](https://wakatime.com/@0067555e-890a-4f8e-91d6-d4b8a6779243)
+
 - 🔭 I'm a high school student from China
 - 🌱 I’m currently learning Kotlin
 - 📫 Telegram Public Channel: [This](https://t.me/gohj99_Channels)
