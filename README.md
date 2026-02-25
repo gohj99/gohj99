@@ -15,7 +15,7 @@
 - 😄 Pronouns: 99
 <!--- 爱发电: [this](https://afdian.com/a/gohuojian99)-->
 
-![gohj99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gohj99&show_icons=true&theme=transparent&rank_icon=true)
+![gohj99's GitHub stats](https://github-readme-stats-wine-psi-55.vercel.app/api?username=gohj99&show_icons=true&theme=transparent&rank_icon=true)
 
 <!--
 **gohj99/gohj99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
